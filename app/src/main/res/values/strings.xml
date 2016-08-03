@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Externalstorage</string>
+    <string name="btn_internal_cache">Internal Cache</string>
+    <string name="btn_external_cache">External cache</string>
+    <string name="btn_external_private">External private</string>
+    <string name="btn_external_public">External public</string>
+    <string name="btn_next_activity">Next Activity</string>
+    <string name="btn_previous_activity">Previous Activity</string>
+    <string name="btn_load_internal_cache">Load internal Cache</string>
+    <string name="btn_load_external_cache">Load external Cache</string>
+    <string name="btn_load_external_private">Load External Private</string>
+    <string name="btn_laod_external_public">Load External Public</string>
+</resources>
